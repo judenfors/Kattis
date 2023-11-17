@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\bin\Debug\net7.0\Hockeymatch.exe
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\bin\Debug\net7.0\Hockeymatch.deps.json
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\bin\Debug\net7.0\Hockeymatch.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\bin\Debug\net7.0\Hockeymatch.dll
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\bin\Debug\net7.0\Hockeymatch.pdb
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.dll
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\refint\Hockeymatch.dll
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.pdb
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\Hockeymatch.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Kattis\Hockeymatch\obj\Debug\net7.0\ref\Hockeymatch.dll
